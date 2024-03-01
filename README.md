@@ -1,4 +1,7 @@
 # Get the Status Page of Services via API Calls
+
+![alt text](plantuml-diagram.png)
+
 Explain: 
 1. app.py is the main program
 2. app.py uses the "requests" library for accessing via API to Slack status page
