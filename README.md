@@ -1,6 +1,6 @@
 # Get the Status Page of Services via API Calls
 
-![alt text](plantuml-diagram.png)
+![alt text](plantuml_diagram.png)
 
 Explain: 
 1. app.py is the main program
